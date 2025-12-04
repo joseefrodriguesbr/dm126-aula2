@@ -8,7 +8,7 @@ José Enderson Ferreira Rodrigues
 jose.rodrigues@pg.inatel.br, jose.e.f.rodrigues.br@gmail.com
 
 ## 📌 Implementação
-Aplicativo iOS com Swift desenvolvido no X-Code
+Aplicativo iOS com SwiftUI desenvolvido no X-Code
 
 ### Requisitos atendidos:
 ✅ Desenvolvimento de tela de autenticação personalizada. Utilizando ícones, botões com imagens. Exploração das proriedades dos componentes para criar fluência dentro da SwiftUI.
