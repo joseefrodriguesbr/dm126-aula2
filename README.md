@@ -1,7 +1,7 @@
 # Pós-Graduação em Desenvolvimento Mobile e Cloud Computing – Inatel
 ## DM126 - Desenvolvimento de aplicativos em Swift para iOS
 
-## Projeto Final da Disciplina
+## Exercícios Aula 2
 
 ### 👤 Autor: 
 José Enderson Ferreira Rodrigues   
